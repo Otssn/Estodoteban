@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estodoteban.Common", "Estod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estodoteban.Tests", "Estodoteban.Tests\Estodoteban.Tests.csproj", "{8B286055-D28D-4BCF-86EA-21DD7E2CF9C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estodoteban", "Estodoteban\Estodoteban.csproj", "{721B3816-160D-4B99-A48F-19EE4741D5D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estodoteban.Function", "Estodoteban\Estodoteban.Function.csproj", "{721B3816-160D-4B99-A48F-19EE4741D5D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
